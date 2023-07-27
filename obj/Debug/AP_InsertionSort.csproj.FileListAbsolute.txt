@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\bin\Debug\AP_InsertionSort.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\bin\Debug\AP_InsertionSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\bin\Debug\AP_InsertionSort.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\obj\Debug\AP_InsertionSort.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\obj\Debug\AP_InsertionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\obj\Debug\AP_InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\obj\Debug\AP_InsertionSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_InsertionSort\AP_InsertionSort\obj\Debug\AP_InsertionSort.pdb
